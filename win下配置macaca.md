@@ -36,11 +36,13 @@ C:\Program Files\Java\jdk1.8.0_171
 
 在PATH中最前面加入 %JAVA_HOME%\bin 
 
+![](https://raw.githubusercontent.com/liupeipro/macacaDemo/master/img/01-Java%E7%8E%AF%E5%A2%83/8.png)
+
 ##### 1.3 测试 java 环境变量是否配置成功
 
 打开 命令行 里，输入 java -version ,看是否如下输出：
 
-![](https://raw.githubusercontent.com/liupeipro/macacaDemo/master/img/01-Java%E7%8E%AF%E5%A2%83/8.png)
+![](https://raw.githubusercontent.com/liupeipro/macacaDemo/master/img/01-Java%E7%8E%AF%E5%A2%83/9.png)
  
 ### 二，配置Android环境
 ##### 2.1 解压 soft 目录下的 sdk_win.zip 到 c:\User\***(本机用户名)\Documents\sdk 下
