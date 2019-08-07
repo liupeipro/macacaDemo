@@ -1,12 +1,4 @@
-# win 下 配置 macaca 运行环境
-
-## 目录
-
-1.Java环境
-2.Android环境
-3.配置Gradle
-4.配置Node环境
-5.配置Macaca
+# win 配置 macaca 运行环境
 
 ### 一. 配置Java环境
 ##### 1.1 安装soft目录下的jdk-8u171-windows-x64.exe文件
