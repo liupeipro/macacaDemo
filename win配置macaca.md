@@ -114,11 +114,6 @@ c:\User\***(本机用户名)\Documents\gradle
 
 参考 https://macacajs.github.io/zh/guide/environment-setup.html#%E5%AE%89%E8%A3%85-node-js 
 
-### 六，demo测试
-
-解压 demo目录下的uirecorder-te0727t.zip，
-
-
 ## 参考资料
 
 https://macacajs.github.io/zh/guide/environment-setup.html#%E5%AE%89%E8%A3%85-node-js
